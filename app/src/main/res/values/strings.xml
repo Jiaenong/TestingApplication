@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TestingApplication</string>
+    <string name="create">Create</string>
+    <string name="review">Review</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="insert">Insert</string>
+    <string name="searchname">Search Name</string>
+    <string name="search">Search</string>
+    <string name="selectcustomer">Select Customer</string>
+    <string name="customer1">Customer1</string>
+    <string name="customer2">Customer2</string>
+    <string name="selectupdate">Select field to update</string>
+    <string name="enternewvalue">Enter New Value</string>
+    <string name="insertUpdate">Update</string>
+    <string name="entercustomer">Enter Customer Name</string>
+    <string-array name="field">
+        <item>Name</item>
+        <item>Password</item>
+        <item>Email</item>
+        <item>Phone</item>
+    </string-array>
+</resources>
